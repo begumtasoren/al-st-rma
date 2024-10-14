@@ -1,2 +1,2 @@
-# al-st-rma
+# practice
 Alıştırma Soruları
